@@ -127,6 +127,6 @@ README.md     → Project documentation
 
 👨‍💻 Author
 
-Your Name Here
-BSCS / BSSE – 3rd Semester
+Muhammad Abdal
+BSAI – 3rd Semester
 Data Structures Course Project
